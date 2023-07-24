@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-function index() {
+function Index() {
 
   const[text, setText]=useState(null)
   useEffect(()=>{
@@ -21,4 +21,4 @@ function index() {
   )
 }
 
-export default index
+export default Index
