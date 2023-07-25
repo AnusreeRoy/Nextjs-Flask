@@ -14,7 +14,6 @@ function Index() {
 
 
   return (
-    
     <div>{text}</div>
     // <div>
     //   <p>Hello</p>
